@@ -7,7 +7,7 @@ This is a basic crud web application for a Todo list, built using Ruby on Rails.
 - Creation of a Todo
 - Read a Todo previously created
 - Update a Todo
-- Destroyu a Todo
+- Destroy a Todo
 
 ## Getting Started
 
